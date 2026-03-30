@@ -1,0 +1,13 @@
+{
+  "newUser": {
+    "firstName": "Automation",
+    "lastName": "Test",
+    "userEmail": "tester@test.com",
+    "age": "28",
+    "salary": "8500",
+    "department": "Quality Assurance"
+  },
+  "editUpdate": {
+    "newName": "Automation Engineer"
+  }
+}

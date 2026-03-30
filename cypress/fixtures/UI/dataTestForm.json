@@ -1,0 +1,16 @@
+{
+  "studentData": {
+    "firstName": "Test",
+    "lastName": "Automation",
+    "userEmail": "test.automation@example.com",
+    "gender": "Male",
+    "mobileNumber": "1234567890",
+    "dateOfBirth": "29 Mar 2026",
+    "subjects": ["Maths"],
+    "hobbies": ["Sports", "Music"],
+    "uploadFile": "document.txt",
+    "currentAddress": "Test Street, 123 - Automation District",
+    "state": "NCR",
+    "city": "Delhi"
+  }
+}
